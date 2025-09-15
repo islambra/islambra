@@ -26,5 +26,5 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)  
-[![Email](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)
+![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)  
+![Email](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)
