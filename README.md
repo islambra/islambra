@@ -15,7 +15,7 @@
 ![Nextjs](https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg)
 ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)
 ![Mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
-![MySql](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
+![MySql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
 ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ---
