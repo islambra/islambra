@@ -13,8 +13,8 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg
+![Node.js](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+
 ---
 
 ## 📊 GitHub Stats
