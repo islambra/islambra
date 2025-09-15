@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Islam
 
 🧑‍💻 Full Stack Web Developer  
-💼 Full-Stack Developer | Creating Secure & High-Performance Applications
-🎓Studied [Computer Science] at [Abdelhamid Mehri Constantine 2]<br/>
+💼 Full-Stack Developer | Creating Secure & High-Performance Applications <br/>
+🎓Studied [Computer Science] at [Abdelhamid Mehri Constantine 2]
 
 ---
 
