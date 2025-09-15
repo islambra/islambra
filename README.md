@@ -1,8 +1,8 @@
 ##          Hi there,I am Islam Brahamia
 
 🧑‍💻 Full Stack Web Developer  
-💼 Full-Stack Developer | Creating Secure & High-Performance Applications <br/>
-🎓Studied [Computer Science] at [Abdelhamid Mehri Constantine 2]
+💼 Creating Secure & High-Performance Applications <br/>
+🎓 Studied [Computer Science] at [Abdelhamid Mehri Constantine 2]
 
 ---
 
