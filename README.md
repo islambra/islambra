@@ -2,7 +2,6 @@
 
 🧑‍💻 Full Stack Web Developer  
 💼 Creating Secure & High-Performance Applications <br/>
-🎓 Studied [Computer Science] at [Abdelhamid Mehri Constantine 2]
 
 ---
 
