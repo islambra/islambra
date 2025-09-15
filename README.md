@@ -25,7 +25,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islambra&show_icons=true&theme=radical&count_private=true)  
 
 ---
-
-## 🌐 Connect with me
-![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)  
-![Email](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)
