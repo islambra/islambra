@@ -26,5 +26,5 @@
 ---
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mohamedbrahamia25@gmail.com)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)  
+[![Email](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)
