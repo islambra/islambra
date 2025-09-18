@@ -1,7 +1,7 @@
 ##          Hi there,I am Islam Brahamia
 
-🧑‍💻 Full Stack Web Developer  
-💼 Creating Secure & High-Performance Applications <br/>
+✦ Full Stack Web Developer  
+✦ Creating Secure & High-Performance Applications <br/>
 
 ---
 
