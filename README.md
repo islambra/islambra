@@ -4,6 +4,9 @@
 ✦ Creating Secure & High-Performance Applications <br/>
 
 ---
+---
+---
+---
 
 ## 🛠 Skills
 <p align="left">
