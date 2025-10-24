@@ -1,6 +1,6 @@
-##          Hi there, I am Islam Brahamia
+##          Hi there, I am Mohamed Islam Brahamia
 
-✦ Full Stack Web Developer  
+✦ Web Developer  
 ✦ Creating Secure & High-Performance Applications <br/>
 
 ---
