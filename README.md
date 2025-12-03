@@ -10,7 +10,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40"/>
+  <!-- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40"/> -->
   <!-- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Nextjs" height="40"/> -->
